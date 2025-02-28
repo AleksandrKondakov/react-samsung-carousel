@@ -8,7 +8,7 @@
     "react-scripts": "5.0.1",
     "sass": "^1.85.0"
   },
-  "homepage": "https://AleksandrKondakov.github.io/react-youtube-accordion",
+  "homepage": "https://AleksandrKondakov.github.io/react-samsung-carousel",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

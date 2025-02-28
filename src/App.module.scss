@@ -99,10 +99,10 @@ body {
                         .progressContainer {
                             display: flex;
                             align-items: center;
-                            gap: 5px;
+                            gap: 15px;
 
                             .progressBar {
-                                width: 150px;
+                                width: 10vw;
                                 height: 2px;
                                 background-color: rgba(255, 255, 255, 0.5);
                                 position: relative;
