@@ -22,7 +22,7 @@ body {
         position: absolute;
         color: #202124;
         margin-bottom: 20px;
-        font-size: 22px;
+        font-size: 1.2rem;
         z-index: 2;
         top: 10%;
         left: 50%;
@@ -99,10 +99,10 @@ body {
                         .progressContainer {
                             display: flex;
                             align-items: center;
-                            gap: 15px;
+                            gap: 1rem;
 
                             .progressBar {
-                                width: 10vw;
+                                width: 8vw;
                                 height: 2px;
                                 background-color: rgba(255, 255, 255, 0.5);
                                 position: relative;
