@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-samsung-carousel/static/css/main.ed1a6b5b.css",
+    "main.js": "/react-samsung-carousel/static/js/main.868b1da3.js",
+    "index.html": "/react-samsung-carousel/index.html",
+    "main.ed1a6b5b.css.map": "/react-samsung-carousel/static/css/main.ed1a6b5b.css.map",
+    "main.868b1da3.js.map": "/react-samsung-carousel/static/js/main.868b1da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed1a6b5b.css",
+    "static/js/main.868b1da3.js"
+  ]
+}
