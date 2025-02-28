@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-samsung-carousel/static/css/main.41df0534.css",
+    "main.css": "/react-samsung-carousel/static/css/main.913a24dd.css",
     "main.js": "/react-samsung-carousel/static/js/main.868b1da3.js",
     "index.html": "/react-samsung-carousel/index.html",
-    "main.41df0534.css.map": "/react-samsung-carousel/static/css/main.41df0534.css.map",
+    "main.913a24dd.css.map": "/react-samsung-carousel/static/css/main.913a24dd.css.map",
     "main.868b1da3.js.map": "/react-samsung-carousel/static/js/main.868b1da3.js.map"
   },
   "entrypoints": [
-    "static/css/main.41df0534.css",
+    "static/css/main.913a24dd.css",
     "static/js/main.868b1da3.js"
   ]
 }
