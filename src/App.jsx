@@ -75,7 +75,6 @@ const App = () => {
                                     }`}
                             >
                                 <img src={image} alt={`Slide ${index + 1}`} />
-                                <span>{index + 1}</span>
                                 <div
                                     className={styles.progressWrapper}
                                     onMouseEnter={handleMouseEnterProgressWrapper}
